@@ -327,13 +327,15 @@ class MyApp : Application() {
 >
 > 如果没有，请手动修改tinkerId
 
+
+
 打开AS右边的Gradle 执行`assembleRelease`编译生成基准包： 
 
-![1532585447385](F:\Notes\gradle_build.png)
+![1532585447385](http://pd8746ife.bkt.clouddn.com/image/gradle_build.png)
 
 这个会在build/outputs/bakApk路径下生成每次编译的基准包、混淆配置文件、资源Id文件，如下图所示： 
 
-![](F:\Notes\2.jpg) 
+![](http://pd8746ife.bkt.clouddn.com/image/2.jpg) 
 
 
 
@@ -358,13 +360,13 @@ class MyApp : Application() {
 
 * 使用`buildTinkerPatchRelase` 进行编译生成补丁包
 
-  ![1532585447385](F:\Notes\gradle_build.png)
+  ![1532585447385](http://pd8746ife.bkt.clouddn.com/image/gradle_build.png)
 
 
 
 * 编译完成后，将会在./build/outputs/patch/release目录下生成补丁包
 
-  ![补丁包路径](F:\Notes\补丁包路径.png)
+  ![补丁包路径](http://pd8746ife.bkt.clouddn.com/image/%E8%A1%A5%E4%B8%81%E5%8C%85%E8%B7%AF%E5%BE%84.png)
 
 
 
