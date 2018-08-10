@@ -9,6 +9,8 @@ arrayList = ArrayList(mutableList)
 
 ### 数据类实现Parcelable
 
+#### 使用注解
+
 ##### 1.在gradle中添加
 
 ```groovy
@@ -33,4 +35,8 @@ data class User(val name: String, val age: Int) : Parcelable
 ```
 
 
+
+### 使用AS插件快速生成
+
+> 搜索Parcelable Code Generator(for kotlin)插件安装
 
