@@ -1,6 +1,8 @@
-## Retrofit 请求HTTPS证书异常
+## Retrofit 请求HTTPS证书异常SSLHandshakeException
 
 
+
+> javax.net.ssl.SSLHandshakeException: java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
 
 ```java
 public class SSLSocketClient {
