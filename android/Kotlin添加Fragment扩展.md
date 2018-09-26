@@ -1,6 +1,6 @@
-## Kotlin 对Fragment扩展方法
+## Kotlin 简化Fragment使用的扩展方法
 
-
+> 为了更方便的使用Frgment，使用扩展方法对其进行扩展，来简化其使用方式
 
 * 添加扩展函数
 

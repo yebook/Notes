@@ -62,7 +62,7 @@ class LazySingleton private constructor(){
 
 
 
-> [Kotlin中的单例模式](https://droidyue.com/blog/2017/07/17/singleton-in-kotlin/)
+> 参考：[Kotlin中的单例模式](https://droidyue.com/blog/2017/07/17/singleton-in-kotlin/)
 
 
 
