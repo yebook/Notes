@@ -40,6 +40,14 @@ mount -o remount /dev/block/by-name/system
 
 
 
+```
+ adb root      // adb以root权限登录安卓开发板
+ adb shell
+ mount -rw -o remount /system         // 以读写权限重新挂载system
+```
+
+
+
 ### 查看当前运行的进程
 
 ```
