@@ -56,3 +56,11 @@ adb shell ps
 
 
 
+### 完全卸载应用
+
+> adb shell pm uninstall 包名
+
+ ### 删除卸载残留
+
+> adb shell rm -rf /data/app/包名
+
