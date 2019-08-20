@@ -68,6 +68,9 @@ public void initX5() {
 
 > **注意：**集成中大部分问题都出在无法加载内核这一块
 > 检查自己手机或设备是否有内核源，[官网检查方法](https://x5.tencent.com/tbs/technical.html#/detail/sdk/1/71884f91-badf-4314-a5b7-6cfa6aed81cc),也可以使用微信访问这个地址: [debugtbs.qq.com]查看，安装内核，而后重装应用或者重启手机
+>
+> [调试工具下载](https://x5.tencent.com/tbs/guide/debug/download.html)
+> 或者使用[debugx5.qq.com]
 
 
 
